@@ -1,1 +1,3 @@
 # AccountingAPI
+
+npm run start
